@@ -137,18 +137,7 @@ The app will be available at `http://localhost:5173`.
 - **Organizer:** Creates and manages events, tracks attendees and revenue, uses QR check-in, and connects with vendors
 - **Admin:** Approves events and organizers, blocks users, verifies vendors, and views platform-wide reports
 
-## Screenshots
-
-*(Add screenshots here once available)*
-
-| Page | Screenshot |
-|------|------------|
-| Landing Page | ![]() |
-| Events Page | ![]() |
-| Event Details | ![]() |
-| Booking Page | ![]() |
-| Organizer Dashboard | ![]() |
-| Admin Dashboard | ![]() |
+ 
 
 ## Future Improvements
 
