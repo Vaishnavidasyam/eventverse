@@ -148,6 +148,8 @@ The app will be available at `http://localhost:5173`.
 - Add multi-language support
 - Add live streaming for virtual events
 
+[![Deployed with Vercel](https://vercel.com/button)](https://eventverse-six.vercel.app/)
+
 ## Author
 
 Project author information not specified.
